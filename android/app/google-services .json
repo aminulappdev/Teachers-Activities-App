@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179679952844",
+    "project_id": "teachers-activities",
+    "storage_bucket": "teachers-activities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179679952844:android:3b69d29ee6f3159654e769",
+        "android_client_info": {
+          "package_name": "com.example.cse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179679952844-5e2iinh75e4oprhq9n9rjbp7h557dif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvDDlZa0QhGiAfhc2G4Cal-Haa8mRpJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179679952844-5e2iinh75e4oprhq9n9rjbp7h557dif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
